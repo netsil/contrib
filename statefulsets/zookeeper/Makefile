@@ -1,5 +1,5 @@
-VERSION=v3
-PROJECT_ID=google_samples
+VERSION=v3-epoch
+PROJECT_ID=gcr.io/nutanix-epoch/zookeeper
 PROJECT=gcr.io/${PROJECT_ID}
 
 all: build
